@@ -1,0 +1,27 @@
+body {
+   box-sizing: border-box;
+   width: 100%;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 11px;
+   margin: 0;
+   padding: 0;
+}
+.for-schleife {
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+.while-schleife {
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+.doWhile-schleife {
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+h2 {
+    font-size: 1rem;
+}
